@@ -1,0 +1,48 @@
+Running BFS...
+No Solution
+Finished
+
+
+
+Running DFS...
+Boat on wrong side
+Destination Bank: Mis - 0 Can - 0
+wrong Bank: Mis - 300 Can - 300
+
+Boat on destination side
+Destination Bank: Mis - 0 Can - 2
+wrong Bank: Mis - 300 Can - 298
+
+Boat on wrong side
+Destination Bank: Mis - 0 Can - 1
+wrong Bank: Mis - 300 Can - 299
+
+Boat on destination side
+Destination Bank: Mis - 0 Can - 201
+wrong Bank: Mis - 300 Can - 99
+
+Boat on wrong side
+Destination Bank: Mis - 0 Can - 200
+wrong Bank: Mis - 300 Can - 100
+
+Boat on destination side
+Destination Bank: Mis - 200 Can - 200
+wrong Bank: Mis - 100 Can - 100
+
+Boat on wrong side
+Destination Bank: Mis - 199 Can - 199
+wrong Bank: Mis - 101 Can - 101
+
+Boat on destination side
+Destination Bank: Mis - 201 Can - 201
+wrong Bank: Mis - 99 Can - 99
+
+Boat on wrong side
+Destination Bank: Mis - 200 Can - 200
+wrong Bank: Mis - 100 Can - 100
+
+Boat on destination side
+Destination Bank: Mis - 300 Can - 300
+wrong Bank: Mis - 0 Can - 0
+
+Finished
